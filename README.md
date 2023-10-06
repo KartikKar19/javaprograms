@@ -1,2 +1,2 @@
 # javaprograms
-all the java progrms that i learned in my 3rd semester of colllege and can be made use of
+all the java progrms that i learned in my 3rd semester of colllege and can be made use ofin real life
